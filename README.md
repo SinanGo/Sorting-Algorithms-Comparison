@@ -2,7 +2,7 @@ This is a group project for Analysis of Algorithms Course prepared with (https:/
 
 The aim of this project is to compare different sorting algorithms for finding the k'th smallest element of an unsorted list of n numbers.
 
-We examine all variations:
+We have examined all variations:
 
 - different values of n,
 - different values of k (1, n/2, n),
